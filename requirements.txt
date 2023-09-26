@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+timm==0.5.4
+torchsummary==1.5.1
+tqdm==4.64.0
+pycls==0.1.1

@@ -1,0 +1,7 @@
+DATA_DIR = "./dent_data"
+MODEL_NAME = "resnet"
+NUM_CLASSES = 3
+BATCH_SIZE = 8
+NUM_EPOCHS = 15
+FEATURE_EXTRACT = True
+CHECKPOINT_PATH = './work_dir'
